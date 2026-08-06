@@ -1,0 +1,12 @@
+name: skill-trendline-breakdown-reversal
+version: 1.0.0
+license: GPL-3.0-only
+maintainer: skill-trendline-breakdown-reversal maintainers
+entrypoint: SKILL.md
+runtime_adapters:
+  - codex
+  - claude-code
+supported_scenarios:
+  - A-share daily factor research
+  - date-based full-market screening
+  - offline CSV/Parquet factor calculation

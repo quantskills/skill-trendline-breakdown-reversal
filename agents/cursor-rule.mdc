@@ -1,0 +1,8 @@
+---
+description: Load the trendline-breakdown reversal Skill instructions.
+alwaysApply: false
+---
+
+Use the repository root `SKILL.md` as the authoritative instructions for this Skill.
+Follow its PandData-only online data policy, required input fields, factor workflow,
+and financial-risk limitations.
