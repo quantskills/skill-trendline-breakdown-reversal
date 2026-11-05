@@ -46,3 +46,7 @@ DataFrame 必须含 `ts_code,trade_date,open,close,high,low,vol`；也可输入 
 3. 将返回字段 `symbol` 映射为 `ts_code`、`volume` 映射为 `vol`，并校验输入字段完整后计算因子。
 
 PandData 未安装、未授权、网络不可用或返回数据不完整时，必须明确报错。禁止自动切换到 AkShare、Tushare 或其他在线行情源；如需离线处理，只能由用户提供符合输入字段要求的 CSV/Parquet DataFrame。
+
+## Pandadata compatibility
+
+[Pandadata 1.0.6 compatibility](references/pandadata-compatibility.md) — exact SDK baseline, validation scope, and shared guidance for all supported agent runtimes.
