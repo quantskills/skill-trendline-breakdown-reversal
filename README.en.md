@@ -24,3 +24,6 @@ PandData is the only permitted online market-data source. The Skill does not sil
 ## License
 
 This project is released under GPL-3.0-only. See [LICENSE](LICENSE). Outputs are for research only and are not investment advice.
+
+
+Pandadata compatibility maintenance: [abgyjaguo](https://github.com/abgyjaguo). Existing authorship is retained.

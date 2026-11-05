@@ -24,3 +24,6 @@ pip install panda_data pandas numpy
 ## 许可证
 
 本项目仅以 GPL-3.0-only 发布，详见 [LICENSE](LICENSE)。结果仅供研究，不构成投资建议。
+
+
+Pandadata 兼容维护：[abgyjaguo](https://github.com/abgyjaguo)，保留原项目作者署名。
